@@ -1,0 +1,78 @@
+
+a {
+    text-decoration: none;
+}
+
+.nav{
+    background-color: rgba(237, 161, 91, 0.55);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 100%;
+    height: 150px;
+}
+
+.nav-list{
+   list-style-type: none;
+   padding: 40px;
+}
+.nav-item{
+    max-width: 254px;
+    max-height: 70px;
+    background: rgba(245, 248, 120, 0.72);
+    border-radius: 17px;
+}
+
+/*.main-screen{*/
+/*    display: flex;*/
+/*}*/
+
+.button {
+    width: 75px;
+    height: 75px;
+    top: 350px;
+    border-radius: 100%;
+}
+
+.stock{
+    position: absolute;
+    width: 714px;
+    height: 400px;
+    left: 152px;
+    top: 199px;
+    padding: 0 0 0 186px;
+    /*dark*/
+    border-radius: 25px;
+}
+
+.clr-orange-dark {
+    background: rgba(237, 161, 91, 0.55);
+}
+
+.clr-orange-light{
+    background: rgba(219, 141, 68, 0.9);
+}
+.button-text{
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 46px;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.menu-pizza{
+    width: 1200px;
+    height: 700px;
+}
+
+.pizza-item{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 57px;
+    top: 200px;
+
+    background: rgba(237, 161, 91, 0.55);
+    border-radius: 25px;
+}
